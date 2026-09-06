@@ -1,0 +1,6 @@
+{
+  "name": "Calisthenics",
+  "description": "A calisthenics workout demo app featuring guided bodyweight routines, interactive exercise timer, form cues, progression trees, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
